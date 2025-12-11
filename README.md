@@ -155,7 +155,8 @@ The project includes optimized queries for:
 
 ## 👥 Contributors
 
-Project IDs: 2363678-2238996
+I worked on this project with my classmate - Alaa Kirdi
+Both of us touched every aspect of this project
 
 ## 📝 License
 
